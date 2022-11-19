@@ -1,0 +1,28 @@
+- 👋 Hi, I’m @jenniferpeebles
+- 👀 I’m a newsroom data specialist at The Atlanta Journal-Constitution, helping reporters find and tell stories with government data (and sometimes documents, too)
+- 📫 How to reach me ...
+
+Information on how to contact journalist Jennifer Peebles through various means:
+
+Tips, data and documents are always welcome!
+
+Email: jennifer.peebles (at) ajc.com 
+
+Proton Mail secure email: jpeebles (at) protonmail.com
+
+Signal secure texts and calls: 281-656-1681.
+
+PGP for secure email: http://bit.ly/2rjj9Qn | PGP Fingerprint: 047 384 9F2 6C9 9C8 8F6 0CD F86 1EB 008 CEE D5B A185
+
+Twitter: @jpeebles. Once you follow me, you can send me a private message (Twitter calls them "direct messages").
+
+Snail mail: Jennifer Peebles, Atlanta Journal-Constitution newsroom, 6205 Peachtree Dunwoody Road, Atlanta GA 30328.
+
+Keybase.io secure messaging: jpeebles.
+
+<!---
+jenniferpeebles/jenniferpeebles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+You can click the Preview link to take a look at your changes.
+--->
