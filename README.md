@@ -24,6 +24,8 @@ Tips, data and documents are always welcome!
 
 **Keybase.io secure messaging**: jpeebles
 
+### More about me
+
 **My website**: http://www.jenniferpeebles.com/
 
 **My ajc.com staff bio page with links to recent bylines**: https://www.ajc.com/staff/jennifer-peebles/
