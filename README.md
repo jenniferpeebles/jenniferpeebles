@@ -6,7 +6,7 @@
 
 Tips, data and documents are always welcome!
 
-**Email**: jennifer.peebles (at) ajc.com 
+**Email**: jennifer.peebles (at) ajc.com
 
 **Proton Mail secure email**: jpeebles (at) protonmail.com
 
@@ -20,7 +20,7 @@ Tips, data and documents are always welcome!
 
 **Twitter**: @jpeebles. Once you follow me, you can send me a private message (Twitter calls them "direct messages").
 
-**Snail mail**: Jennifer Peebles, Atlanta Journal-Constitution newsroom, 6205 Peachtree Dunwoody Road, Atlanta GA 30328.
+**Snail mail**: I welcome tips and documents you might want to send us through the U.S. mail. Mail them to me at Jennifer Peebles, Atlanta Journal-Constitution newsroom, 6205 Peachtree Dunwoody Road, Atlanta GA 30328.
 
 **Keybase.io secure messaging**: jpeebles
 
